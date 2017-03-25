@@ -22,17 +22,17 @@ What you will submit:
   
 **Hashtables**
 
-- [ ] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
-- [ ] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
+- [X] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
+- [X] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
-- [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
-- [ ] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
+- [X] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
+- [X] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
 
 **Coding**
 
-- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
-- [ ] Finish at least 2 tasks on Exercism
+- [X] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [X] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
 
