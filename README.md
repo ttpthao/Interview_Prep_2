@@ -11,13 +11,13 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+- [X] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
   - I have learned that Big O is essentially an equation that describes how the runtime scales with respect to some input variable.
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
+- [X] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that...
 - [X] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet makes more sense to me now.
-- [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
+- [X] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
   - I have learned that...
   
 **Hashtables**
